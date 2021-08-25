@@ -1,3 +1,3 @@
-# test_controller
+# algo_tasks
 
 Run homework.py to start
